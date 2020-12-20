@@ -1,0 +1,3 @@
+thanks for using git version control system!
+enjoy it!
+hava fun!
